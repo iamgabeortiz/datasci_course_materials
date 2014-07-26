@@ -1,3 +1,7 @@
 #Large Data Files.
 output.txt
 test.txt
+
+#PyCharm Project Files
+DataScience/
+.idea/
